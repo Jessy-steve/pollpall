@@ -1,0 +1,201 @@
+INFO - 2023-06-21 15:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 15:06:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-21 15:07:38 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-21 15:07:38 --> 220 smtp.googlemail.com ESMTP r11-20020a5d498b000000b00307a86a4bcesm4689859wrq.35 - gsmtp
+
+hello: 250-smtp.googlemail.com at your service, [156.0.233.55]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 220 2.0.0 Ready to start TLS
+
+hello: 250-smtp.googlemail.com at your service, [156.0.233.55]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials r11-20020a5d498b000000b00307a86a4bcesm4689859wrq.35 - gsmtp
+
+INFO - 2023-06-21 15:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 15:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 15:13:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 17:43:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 18:25:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 18:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 19:31:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 19:40:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 19:50:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 19:50:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 19:57:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 19:57:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 19:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 20:25:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 20:25:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-21 20:26:02 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-21 20:26:02 --> 220 smtp.gmail.com ESMTP a14-20020a170906368e00b009829dc0f2a0sm3594667ejc.111 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [105.162.23.197]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a14-20020a170906368e00b009829dc0f2a0sm3594667ejc.111 - gsmtp
+
+INFO - 2023-06-21 20:26:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 20:26:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:17:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:17:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:17:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:18:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:18:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-21 21:18:17 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-21 21:18:17 --> 220 smtp.gmail.com ESMTP n6-20020a7bcbc6000000b003f7e4d143cfsm5986437wmi.15 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [105.162.23.197]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials n6-20020a7bcbc6000000b003f7e4d143cfsm5986437wmi.15 - gsmtp
+
+ERROR - 2023-06-21 21:18:18 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-21 21:18:18 --> 220 smtp.gmail.com ESMTP n6-20020a7bcbc6000000b003f7e4d143cfsm5986437wmi.15 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [105.162.23.197]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials n6-20020a7bcbc6000000b003f7e4d143cfsm5986437wmi.15 - gsmtp
+
+Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials n6-20020a7bcbc6000000b003f7e4d143cfsm5986437wmi.15 - gsmtp
+
+INFO - 2023-06-21 21:18:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:18:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:18:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:18:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-21 21:18:52 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-21 21:18:52 --> 220 smtp.gmail.com ESMTP v8-20020a170906380800b00977ca5de275sm3685209ejc.13 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [105.162.23.197]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v8-20020a170906380800b00977ca5de275sm3685209ejc.13 - gsmtp
+
+ERROR - 2023-06-21 21:18:53 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-21 21:18:53 --> 220 smtp.gmail.com ESMTP v8-20020a170906380800b00977ca5de275sm3685209ejc.13 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [105.162.23.197]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v8-20020a170906380800b00977ca5de275sm3685209ejc.13 - gsmtp
+
+Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v8-20020a170906380800b00977ca5de275sm3685209ejc.13 - gsmtp
+
+INFO - 2023-06-21 21:18:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:18:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:28:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-21 21:28:26 --> strpos(): Argument #1 ($haystack) must be of type string, CodeIgniter\Email\Email given
+in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(Object(CodeIgniter\Email\Email), ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(Object(CodeIgniter\Email\Email))
+ 3 APPPATH\Controllers\Auth.php(240): CodeIgniter\Email\Email->setTo(Object(CodeIgniter\Email\Email))
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->send_reset_link()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xamppp\\htdocs\\voting\\public\\index.php')
+INFO - 2023-06-21 21:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:31:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-21 21:32:02 --> Email: sendWithMail throwed ErrorException: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xamppp\htdocs\voting\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): Failed ...', 'C:\\xamppp\\htdoc...', 1735)
+#1 C:\xamppp\htdocs\voting\system\Email\Email.php(1735): mail('mwelujenny@gmai...', '=?UTF-8?Q?Passw...', 'This is a multi...', 'Date: Wed, 21 J...', '-f pallypolly8@...')
+#2 C:\xamppp\htdocs\voting\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 C:\xamppp\htdocs\voting\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 C:\xamppp\htdocs\voting\app\Controllers\Auth.php(245): CodeIgniter\Email\Email->send()
+#5 C:\xamppp\htdocs\voting\system\CodeIgniter.php(934): App\Controllers\Auth->send_reset_link()
+#6 C:\xamppp\htdocs\voting\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 C:\xamppp\htdocs\voting\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xamppp\htdocs\voting\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 C:\xamppp\htdocs\voting\system\Commands\Server\rewrite.php(47): require_once('C:\\xamppp\\htdoc...')
+#10 {main}
+ERROR - 2023-06-21 21:32:02 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-06-21 21:32:02 --> 
+INFO - 2023-06-21 21:32:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:32:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-21 21:32:17 --> Email: sendWithMail throwed ErrorException: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xamppp\htdocs\voting\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): Failed ...', 'C:\\xamppp\\htdoc...', 1735)
+#1 C:\xamppp\htdocs\voting\system\Email\Email.php(1735): mail('mwelujenny@gmai...', '=?UTF-8?Q?Passw...', 'This is a multi...', 'Date: Wed, 21 J...', '-f pallypolly8@...')
+#2 C:\xamppp\htdocs\voting\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 C:\xamppp\htdocs\voting\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 C:\xamppp\htdocs\voting\app\Controllers\Auth.php(245): CodeIgniter\Email\Email->send()
+#5 C:\xamppp\htdocs\voting\system\CodeIgniter.php(934): App\Controllers\Auth->send_reset_link()
+#6 C:\xamppp\htdocs\voting\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 C:\xamppp\htdocs\voting\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xamppp\htdocs\voting\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 C:\xamppp\htdocs\voting\system\Commands\Server\rewrite.php(47): require_once('C:\\xamppp\\htdoc...')
+#10 {main}
+ERROR - 2023-06-21 21:32:17 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-06-21 21:32:17 --> 
+INFO - 2023-06-21 21:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:32:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:50:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:50:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 21:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 22:01:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 22:02:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 22:02:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 22:03:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 22:03:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-21 22:03:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
