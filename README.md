@@ -27,7 +27,7 @@ The School-Based Voting App is a blockchain-powered application designed to faci
 6. Monitor the real-time results and track the progress of the election.
 
 ## Contributing
-We welcome contributions to the School-Based Voting App. If you find any issues or have suggestions for improvements, please submit an issue or a pull request on our GitHub repository.
+We welcome contributions to the PollPall. If you find any issues or have suggestions for improvements, please submit an issue or a pull request on our GitHub repository.
 
 
 ## Contact
