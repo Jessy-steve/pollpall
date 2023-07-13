@@ -13,7 +13,7 @@ The School-Based Voting App is a blockchain-powered application designed to faci
 - User-Friendly Interface: The app offers an intuitive and responsive web-based interface for easy navigation and seamless voting experience.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/pollpall.git`
+1. Clone the repository: `git clone https://github.com/Jessy-steve/pollpall.git`
 2. Install dependencies: `npm install`
 3. Configure the database connection and other settings in the `.env` file.
 4. Start the application: `npm start`
