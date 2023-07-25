@@ -21,7 +21,7 @@ The School-Based Voting App is a blockchain-powered application designed to faci
 ## Usage
 1. Access the application through your web browser at `http://localhost:8080`.
 2. Register as a voter using your student ID and other required details.
-3. Log in to the voting system using your credentials.
+3. Log in to the voting system  m using your credentials.
 4. Explore the candidate profiles and make your selections.
 5. Cast your vote securely, and ensure your vote is recorded.
 6. Monitor the real-time results and track the progress of the election.
