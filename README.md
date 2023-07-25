@@ -3,8 +3,7 @@ PollPall is a web-based blockchain school voting web platform
  that allows users to create polls and vote on them. 
 
 ## Description
-The School-Based Voting App is a blockchain-powered application designed to facilitate secure and transparent voting processes within schools. This application aims to enhance student
-t engagement, promote democratic decision-making, and provide a reliable platform for conducting school elections.
+The School-Based Voting App is a blockchain-powered application designed to facilitate secure and transparent voting processes within schools. This application aims to enhance student engagement, promote democratic decision-making, and provide a reliable platform for conducting school elections.
 
 ## Features
 - User Registration: Students can register as voters by providing their necessary details and verifying their eligibility.
@@ -17,7 +16,7 @@ t engagement, promote democratic decision-making, and provide a reliable platfor
 1. Clone the repository: `git clone https://github.com/Jessy-steve/pollpall.git`
 2. Install dependencies: `npm install`
 3. Configure the database connection and other settings in the `.env` file.
-4. Start the application: `npm start`
+4. Start the application: `npm start`  
 
 ## Usage
 1. Access the application through your web browser at `http://localhost:8080`.
