@@ -6,7 +6,7 @@ PollPall is a web-based blockchain school voting web platform
 The School-Based Voting App is a blockchain-powered application designed to facilitate secure and transparent voting processes within schools. This application aims to enhance student engagement, promote democratic decision-making, and provide a reliable platform for conducting school elections.
 
 ## Features
-- User Registration: Students can register as voters by providing their necessary details and verifying their eligibility.
+- User Registration: Students can register as voters by providing the necessary details and verifying their eligibility.
 - Candidate Management: Administrators can manage candidate nominations, approve candidates, and present their profiles to voters.
 - Secure Voting: The app ensures secure and anonymous voting through blockchain technology, ensuring the integrity of the voting process.
 - Real-time Results: Voting results are calculated and displayed in real-time, providing immediate visibility to the outcomes.
