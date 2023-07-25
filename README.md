@@ -10,7 +10,7 @@ The School-Based Voting App is a blockchain-powered application designed to faci
 - Candidate Management: Administrators can manage candidate nominations, approve candidates, and present their profiles to voters.
 - Secure Voting: The app ensures secure and anonymous voting through blockchain technology, ensuring the integrity of the voting process.
 - Real-time Results: Voting results are calculated and displayed in real-time, providing immediate visibility to the outcomes.
-- User-Friendly Interface: The app offers an intuitive and responsive web-based interface for easy navigation and seamless voting experience.
+- User-Friendly Interface: The app offers an intuitive and responsive web-based interface for easy navigation and a seamless voting experience.
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/Jessy-steve/pollpall.git`
